@@ -1,4 +1,4 @@
-namespace react-core.Models
+namespace reactcore.Models
 {
     public class UserModel
     {
